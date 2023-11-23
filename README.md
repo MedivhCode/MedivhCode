@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Mahdi Nouri
-- 👀 I’m learning blockchain programing.
-- 🌱 I’m teaching web developing ( HTML5 - CSS3 - JS5 - PHP - NodeJS and more..)
+- 👀 Python Programmer - Data Analytics  - Machine Leaning & Deep Learning - Data visualization
 - 📫 How to reach me :
 Website : www.mahdinouri.ir
 Email : hi@mahdinouri.ir
